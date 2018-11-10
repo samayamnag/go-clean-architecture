@@ -1,0 +1,7 @@
+vendor/
+.vscode/
+bin/
+.DS_Store
+
+config/config.json
+config/test.json

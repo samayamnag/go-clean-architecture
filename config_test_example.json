@@ -1,0 +1,13 @@
+{
+    "AppName": "Go Clean Architecture",
+    "AppURL": "https://www.example.com/",
+    "APIVersion": "v1",
+    "ServerPort": ":9001",
+    "MagicalDate": "2006-01-02 15:04:05",
+    "MongoDBHost": "localhost",
+    "MongoDBPort": 27017,
+    "MongoDBName": "golang_mongo_test",
+    "MongoDBUsername": "",
+    "MongoDBPassword": "",
+    "MongoDBConnPool": 5
+}
